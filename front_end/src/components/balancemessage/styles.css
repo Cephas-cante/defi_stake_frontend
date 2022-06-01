@@ -1,0 +1,14 @@
+.balanceGrid{
+    display:inline-grid;
+    grid-template-columns: auto auto auto;
+    align-items: center;
+    gap: 10px;
+}
+
+.tokenImage{
+    width: 32px;
+}
+
+.amount{
+    font-weight: 700;
+}

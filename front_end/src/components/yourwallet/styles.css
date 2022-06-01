@@ -1,0 +1,16 @@
+.tabContent{
+    display:'flex';
+    flex-direction: "column";
+    align-items: "center";
+    justify-center: "center";
+    gap: 30px;
+}
+
+.box{
+    background: white;
+    border-radius: 25px;
+}
+
+.header{
+    color: white;
+}
